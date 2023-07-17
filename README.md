@@ -24,32 +24,32 @@
 
 ### 💼 Навыки:
 
-| Навык                 | Картинка                                              |
-| :---------------------| :---------------------------------------------------- |
-| MySQL                 | ![MySQL](https://studprosvet.ru/upload/007/u793/4/6/529e05ac.jpg) |
-| Tableau               | ![Tableau](https://example.com/tableau.png)           |
-| Power BI              | ![Power BI](https://example.com/powerbi.png)          |
-| Loginome              | ![Loginome](https://example.com/loginome.png)         |
-| Orange data mining    | ![Orange](https://example.com/orange.png)             |
-| BPMN 2.0 (bizagi)     | ![BPMN](https://example.com/bpmn.png)                 |
-| UML                   | ![UML](https://example.com/uml.png)                   |
-| IDEF0                 | ![IDEF0](https://example.com/idef0.png)               |
-| Jira                  | ![Jira](https://example.com/jira.png)                 |
-| Confluence            | ![Confluence](https://example.com/confluence.png)     |
-| Trello                | ![Trello](https://example.com/trello.png)             |
-| Microsoft Visio       | ![Visio](https://example.com/visio.png)               |
-| MS Excel              | ![Excel](https://example.com/excel.png)               |
-| MS Dynamic 1С:Предприятие | ![1C](https://example.com/1c.png)                    |
-| R-Studio              | ![R-Studio](https://example.com/rstudio.png)          |
-| Agile, Scrum          | ![Agile](https://example.com/agile.png)               |
-| Гарант                | ![Гарант](https://example.com/garant.png)             |
-| Консультант+          | ![Консультант+](https://example.com/consultant.png)   |
-| Postman               | ![Postman](https://example.com/postman.png)           |
-| Баг-трекинг           | ![Баг-трекинг](https://example.com/bugtracking.png)   |
-| Тест-кейсы            | ![Тест-кейсы](https://example.com/testcases.png)       |
-| Ведение переговоров   | ![Переговоры](https://example.com/negotiations.png)   |
-| Консультирование      | ![Консультирование](https://example.com/consulting.png) |
-| Деловая переписка     | ![Переписка](https://example.com/correspondence.png)  |
+| Навык                 | Картинка                                                                                                      |
+| :---------------------| :------------------------------------------------------------------------------------------------------------ |
+| MySQL                 | ![MySQL](https://studprosvet.ru/upload/007/u793/4/6/529e05ac.jpg)                                            |
+| Tableau               | ![Tableau](https://repvue.imgix.net/3icwa30u2kpalud0t263ldvu3lj1?auto=format&fit=max&w=64&q=100)               |
+| Power BI              | ![Power BI](http://d2k3f99lg3rnah.cloudfront.net/media/shots/2018/12/30/icon_35755_4.png)                    |
+| Loginome              | ![Loginome](https://studprosvet.ru/upload/007/u793/4/6/529e05ac.jpg)                                          |
+| Orange data mining    | ![Orange data mining](https://hackerspad.net/images/2020/04/Orange_hu552d7f33afe1b3920c3d56af07b4c375_14473_64x64_fill_q75_box_center_3.png) |
+| BPMN 2.0 (bizagi)     | ![BPMN 2.0](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/c7561d25-9565-4ba1-8287-ead06159f3cc/65244315/atlassian-jira-jira_logo.jpg)    |
+| UML                   | ![UML](https://avatars.mds.yandex.net/i?id=2fa127c1d44ce8e81d6158d7bcc6e19e_sr-5099622-images-thumbs&n=13)       |
+| Jira                  | ![Jira](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/4a36ed3a-9b24-11e6-ba35-00163ec9f5fa/2934595777/bizagi-process-modeler-logo.png)    |
+| Confluence            | ![Confluence](https://jira.brainysoft.ru/images/64jira.png)                                                  |
+| Trello                | ![Trello](https://cdn0.iconfinder.com/data/icons/social-network-24/512/Trello-64.png)                         |
+| Microsoft Visio       | ![Microsoft Visio](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/0cc9dbb4-9b2f-11e6-9d3f-00163ec9f5fa/841023363/microsoft-visio-logo.png) |
+| MS Excel              | ![MS Excel](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/b123c50c-96d0-11e6-98a2-00163ec9f5fa/3355942234/microsoft-excel-2016-Icon.png) |
+| MS Dynamic 1С:Предприятие | ![MS Dynamic](https://avatars.mds.yandex.net/i?id=648f61cb791a4560e9832f569921664c-5235433-images-thumbs&n=13) |
+| R-Studio              | ![R-Studio](https://i.stack.imgur.com/9iUqX.jpg?s=64&g=1)                                                     |
+| Agile, Scrum          | ![Agile](https://bcubeanalytics.com/pub/uploads/helpfiles/icon-workprocess.png)                              |
+| Гарант                | ![Гарант](https://avatars.steamstatic.com/0f7a04558f432c97ba6ef95f44707248005993f1_medium.jpg)              |
+| Консультант+          | ![Консультант+](https://static.tildacdn.com/tild3232-6332-4634-a236-353666633930/slide1_1.png)              |
+| Postman               | ![Postman](https://avatars.mds.yandex.net/i?id=7de0751b0dc1b4ffc48ad09c014240b2_sr-4404406-images-thumbs&n=13) |
+| Баг-трекинг           | ![Баг-трекинг](https://cdn1.iconfinder.com/data/icons/cybercrime-internet-security/33/antivirus-13-64.png)   |
+| Тест-кейсы            | ![Тест-кейсы](https://cdn0.iconfinder.com/data/icons/automation-testing-1/128/Set17-07-64.png)              |
+| Ведение переговоров   | ![Переговоры](https://i.stack.imgur.com/IaCLM.png?s=64&g=1)                                                  |
+| Консультирование      | ![Консультирование](https://cdn2.iconfinder.com/data/icons/job-employment-and-interview/340/job-recruit-seeker-006-64.png) |
+| Деловая переписка     | ![Переписка](https://avatars.mds.yandex.net/i?id=1b4c822490ace9d2ebd4e06ee1c5e6ab_sr-5351536-images-thumbs&n=13) |
+
 
 
 <br/>  
