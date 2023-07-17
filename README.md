@@ -19,10 +19,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.thain007/) 
 
 ---
-
 ### 💻 Навыки:
-
-### 💼 Навыки:
 
 | Навык                 | Картинка                                                                                                      |
 | :---------------------| :------------------------------------------------------------------------------------------------------------ |
@@ -38,7 +35,8 @@
 | Trello                | ![Trello](https://cdn0.iconfinder.com/data/icons/social-network-24/512/Trello-64.png)                         |
 | Microsoft Visio       | ![Microsoft Visio](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/0cc9dbb4-9b2f-11e6-9d3f-00163ec9f5fa/841023363/microsoft-visio-logo.png) |
 | MS Excel              | ![MS Excel](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/b123c50c-96d0-11e6-98a2-00163ec9f5fa/3355942234/microsoft-excel-2016-Icon.png) |
-| MS Dynamic 1С:Предприятие | ![MS Dynamic](https://avatars.mds.yandex.net/i?id=648f61cb791a4560e9832f569921664c-5235433-images-thumbs&n=13) |
+| MS Dynamic            | ![MS Dynamic](https://avatars.mds.yandex.net/i?id=648f61cb791a4560e9832f569921664c-5235433-images-thumbs&n=13) |
+| 1С:Предприятие        | ![1С:Предприятие](https://avatars.mds.yandex.net/i?id=835fdda63377958633b6b4dcfbc3439336baa9a7_medium.jpg) |
 | R-Studio              | ![R-Studio](https://i.stack.imgur.com/9iUqX.jpg?s=64&g=1)                                                     |
 | Agile, Scrum          | ![Agile](https://bcubeanalytics.com/pub/uploads/helpfiles/icon-workprocess.png)                              |
 | Гарант                | ![Гарант](https://avatars.steamstatic.com/0f7a04558f432c97ba6ef95f44707248005993f1_medium.jpg)              |
