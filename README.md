@@ -22,7 +22,35 @@
 
 ### 💻 Навыки:
 
-MySQL Tableau, Power BI, Loginome, Orange data mining BPMN 2.0 (bizagi), UML, IDEF0 Jira, Confluence, Trello Microsoft Visio, MS Excel, MS Dynamic 1С:Предприятие R-Studio Agile, Scrum Гарант, Консультант+ Postman Баг-трекинг тест-кейсы Ведение переговоров Консультирование Деловая переписка
+### 💼 Навыки:
+
+| Навык                 | Картинка                                              |
+| :---------------------| :---------------------------------------------------- |
+| MySQL                 | ![MySQL](https://example.com/mysql.png)               |
+| Tableau               | ![Tableau](https://example.com/tableau.png)           |
+| Power BI              | ![Power BI](https://example.com/powerbi.png)          |
+| Loginome              | ![Loginome](https://example.com/loginome.png)         |
+| Orange data mining    | ![Orange](https://example.com/orange.png)             |
+| BPMN 2.0 (bizagi)     | ![BPMN](https://example.com/bpmn.png)                 |
+| UML                   | ![UML](https://example.com/uml.png)                   |
+| IDEF0                 | ![IDEF0](https://example.com/idef0.png)               |
+| Jira                  | ![Jira](https://example.com/jira.png)                 |
+| Confluence            | ![Confluence](https://example.com/confluence.png)     |
+| Trello                | ![Trello](https://example.com/trello.png)             |
+| Microsoft Visio       | ![Visio](https://example.com/visio.png)               |
+| MS Excel              | ![Excel](https://example.com/excel.png)               |
+| MS Dynamic 1С:Предприятие | ![1C](https://example.com/1c.png)                    |
+| R-Studio              | ![R-Studio](https://example.com/rstudio.png)          |
+| Agile, Scrum          | ![Agile](https://example.com/agile.png)               |
+| Гарант                | ![Гарант](https://example.com/garant.png)             |
+| Консультант+          | ![Консультант+](https://example.com/consultant.png)   |
+| Postman               | ![Postman](https://example.com/postman.png)           |
+| Баг-трекинг           | ![Баг-трекинг](https://example.com/bugtracking.png)   |
+| Тест-кейсы            | ![Тест-кейсы](https://example.com/testcases.png)       |
+| Ведение переговоров   | ![Переговоры](https://example.com/negotiations.png)   |
+| Консультирование      | ![Консультирование](https://example.com/consulting.png) |
+| Деловая переписка     | ![Переписка](https://example.com/correspondence.png)  |
+
 
 <br/>  
 
