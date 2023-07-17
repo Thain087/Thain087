@@ -26,7 +26,7 @@
 
 | Навык                 | Картинка                                              |
 | :---------------------| :---------------------------------------------------- |
-| MySQL                 | ![MySQL]([https://example.com](https://studprosvet.ru/upload/007/u793/4/6/529e05ac.jpg)/mysql.png)               |
+| MySQL                 | ![MySQL]([[https://example.com](https://studprosvet.ru/upload/007/u793/4/6/529e05ac.jpg)/mysql.png](https://studprosvet.ru/upload/007/u793/4/6/529e05ac.jpg))               |
 | Tableau               | ![Tableau](https://example.com/tableau.png)           |
 | Power BI              | ![Power BI](https://example.com/powerbi.png)          |
 | Loginome              | ![Loginome](https://example.com/loginome.png)         |
