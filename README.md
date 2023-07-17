@@ -15,7 +15,7 @@
 ---
 
 ### 🤝 Социальные сети:
-![телега](https://github.com/Thain087/Thain087/assets/128293871/1211b93b-2fa3-46f1-9555-446476e213d5)(https://vk.com/julius.caesar007)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Thain87)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.thain007/)  
 
 ---
