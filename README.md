@@ -1,6 +1,4 @@
 ### Привет всем, меня зовут Георгий!👋 
-
-2222222
 <!--
 **Thain087/Thain087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
