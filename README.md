@@ -16,8 +16,7 @@
 
 ### 🤝 Социальные сети:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Thain87)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.thain007/)  
-<a href="PNG/Power-BI.png"><img src="PNG/Power-BI.png" height="25"/></a>|<a href="SVG/Power-BI.svg"><img src="SVG/Power-BI.svg" height="25"/></a>|
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.thain007/) 
 ---
 
 ### 💻 Навыки:
