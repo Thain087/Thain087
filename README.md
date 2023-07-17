@@ -22,11 +22,7 @@
 
 ### 💻 Навыки:
 
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">                 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> 
-
-
-
+MySQL Tableau, Power BI, Loginome, Orange data mining BPMN 2.0 (bizagi), UML, IDEF0 Jira, Confluence, Trello Microsoft Visio, MS Excel, MS Dynamic 1С:Предприятие R-Studio Agile, Scrum Гарант, Консультант+ Postman Баг-трекинг тест-кейсы Ведение переговоров Консультирование Деловая переписка
 
 <br/>  
 
