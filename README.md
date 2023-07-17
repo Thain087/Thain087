@@ -1,15 +1,57 @@
-### Привет всем, меня зовут Георгий!👋 
-<!--
-**Thain087/Thain087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Георгий!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: Обо мне:
+
+Я студент 4 курса Финансового университета, факультета информационных технологий и анализа больших данных по специальности бизнес-информатика. Увлекаюсь аналитикой, QA, геймдевом и киберспортом!
+
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :telescope: оканчиваю курсы SkillFactory: Инженер по ручному тестированию
+
+- :seedling: Золотой призер, капитан, в составе киберспортивной команды “Zero” по дисциплине “Dota 2” в рамках киберспортивного фестиваля МГУ
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Thain87) ✉️(mailto:vakarian.2000@mail.ru)
+
+---
+
+### 🤝 Социальные сети:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/julius.caesar007)  
+
+---
+
+### 💻 Навыки:
+
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+---
+<!-- ### 💻 Образование:
+
+| Бакалавр: Финансовый университет при Правительстве РФ (бывш. ФА при Правительстве РФ)  | Дата                          |
+Факультет информационных технологий и анализа больших данных: Бизнес-информатика         | 10/2019 - по сегодняшний день |
+| ----------------------------------------------------------------| :-----------------:  |                               |
+| Курсы |                                                                                |                               |
+| SkillFactory: Инженер по ручному тестированию                                          | 03/2023 - по сегодняшний день |
+--- -->
