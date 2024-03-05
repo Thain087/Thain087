@@ -18,7 +18,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Thain87)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.thain007/) 
 
-//
+<!--
 ---
 ### 💻 Навыки:
 
@@ -50,6 +50,7 @@
 | Деловая переписка     | ![Переписка](https://edu-tradeunion.kz/static/png_icons/006-teaching.png) |
 
 <br/>  
+-->
 ---
 ### 💻 Образование:
 
